@@ -20,11 +20,19 @@
 
 
 # 🚀 Featured Projects:
+
+### 🔩 Hardware
 - **[Custom 8-Core SIMT GPGPU](https://github.com/shamithoysal/core-cascade)**: SystemVerilog GPU with a custom 16-bit ISA, run on an Artix-7 FPGA and taken through an OpenLane RTL-to-GDSII flow (SkyWater 130nm).
 - **[Latency-Deterministic FPGA HFT Engine](https://github.com/VamshikrishnaBidari/HFT-on-FPGA)**: 7-cycle (70 ns @ 100 MHz) tick-to-trade pipeline, upgraded from UART to UDP/IPv4/ARP Ethernet.
 - **[RISC-V Pipeline & Hardware Trojan Detection](https://github.com/sp0663/riscv_trojan_detection)**: 5-stage RV32I core with Trojan detection using formal equivalence checking.
 - **[AXI-Lite Programmable 8-bit LFSR Core](https://github.com/VamshikrishnaBidari/LFSR_with_AXI_Lite_IEEE_Envision26)**: Verilog core with an AXI-Lite slave interface, verified with cocotb.
-- **[Exchange Matching Engine](https://github.com/VamshikrishnaBidari/Exchange-Matching-Engine)**: C++ limit order book and matching engine with price-time priority.
+
+### 💻 Software
+- **[Shravan: Offline Edge-AI Platform](https://github.com/sp0663/shravan)**: Python framework running local VLM, ASR, NMT and TTS services offline, with fuzzy medicine search over a 560MB SQLite database. National winner, VYOMA Innovation Challenge 2026.
+- **[Exchange Matching Engine](https://github.com/VamshikrishnaBidari/Exchange-Matching-Engine)**: C++ limit order book with price-time priority, replaying 1M synthetic events at 4.0M events/sec (single-thread, on my laptop).
+- **[Wokto](https://wokto.vercel.app/)**: Multi-tenant event management platform (Next.js, Prisma) serving 200+ users.
+- **[DearDriving](https://www.deardriving.com/)**: Driving-school SaaS (React, Node.js, Express) with JWT and Google OAuth2 authentication.
+- **[MindVault](https://github.com/AshleshPrabhu/Mind-Vault)**: Anonymous peer-support platform with real-time chat (Socket.IO), 1st place at ChronoForge 2025.
 
 # 🌱 Currently:
 - Learning VLSI design and the RTL-to-GDSII flow in depth

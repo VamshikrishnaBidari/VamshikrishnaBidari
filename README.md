@@ -29,8 +29,8 @@
 
 ### 💻 Software
 - **[Shravan: Offline Edge-AI Platform](https://github.com/sp0663/shravan)**: Python framework running local VLM, ASR, NMT and TTS services offline, with fuzzy medicine search over a 560MB SQLite database. National winner, VYOMA Innovation Challenge 2026.
-- **[Exchange Matching Engine](https://github.com/VamshikrishnaBidari/Exchange-Matching-Engine)**: C++ limit order book with price-time priority, replaying 1M synthetic events at 4.0M events/sec (single-thread, on my laptop).
 - **[Wokto](https://wokto.vercel.app/)**: Multi-tenant event management platform (Next.js, Prisma) serving 200+ users.
+- **[Exchange Matching Engine](https://github.com/VamshikrishnaBidari/Exchange-Matching-Engine)**: C++ limit order book with price-time priority, replaying 1M synthetic events at 4.0M events/sec (single-thread, on my laptop).
 - **[DearDriving](https://www.deardriving.com/)**: Driving-school SaaS (React, Node.js, Express) with JWT and Google OAuth2 authentication.
 - **[MindVault](https://github.com/AshleshPrabhu/Mind-Vault)**: Anonymous peer-support platform with real-time chat (Socket.IO), 1st place at ChronoForge 2025.
 
